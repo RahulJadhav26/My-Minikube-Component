@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-minikube-component
+spec:
+  lifecycle: Development
+  owner: user:rahuljadhav26
+  type: service
